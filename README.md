@@ -1,4 +1,4 @@
-# This repo 
+# Trivy Scanning Workflow
 1) uses an action
 2) attempts a trivy scan
 3) runs a scan on pr
